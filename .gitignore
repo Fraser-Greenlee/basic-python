@@ -1,3 +1,4 @@
 .vscode
+.live_coder
 venv
 __pycache__
